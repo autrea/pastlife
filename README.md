@@ -6,7 +6,7 @@ Voice acting by Autumn Read and Stephanie Wilson
 
 Vocal recording done by Daniel Sequeira
 
-    3D Models
+3D Models
 
     Katana Model
     https://www.turbosquid.com/FullPreview/Index.cfm/ID/671265
@@ -20,7 +20,9 @@ Vocal recording done by Daniel Sequeira
     Teddy Bear Model
     https://free3d.com/3d-model/teddy-bear-sg-v1--215992.html
     
-    Error pops up every once and a while regarding the audio files, closing the browser and forcing refresh with ctrl-F5 seems to fix it.
+An error pops up every once and a while regarding the audio files, closing the browser 
+and forcing refresh with ctrl-F5 seems to fix it. The error seems to be random yet common, though,
+and any lack of sound I'm guessing is a problem with the browser.
     
     I had difficulties with animations and tweening being controlled through the DOM. 
     I was able to get them to work with a recursive function but decided not to use 
